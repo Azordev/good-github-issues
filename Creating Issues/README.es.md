@@ -1,6 +1,6 @@
-# Issues
+# Guía para crear buenos issues
 
-- [Issues](#issues)
+- [Guía para crear buenos issues](#guía-para-crear-buenos-issues)
   - [¿Qué es un issue?](#qué-es-un-issue)
   - [Qué debe contener un issue?](#qué-debe-contener-un-issue)
     - [Descripción:](#descripción)
@@ -11,6 +11,8 @@
     - [Un issue a la vez](#un-issue-a-la-vez)
     - [Títulos son importantes](#títulos-son-importantes)
     - [Si aplica, no olvides añadir:](#si-aplica-no-olvides-añadir)
+  - [Quiero trabajar con Azordev creando issues](#quiero-trabajar-con-azordev-creando-issues)
+  - [Quiero trabajar con Azordev resolviendo issues](#quiero-trabajar-con-azordev-resolviendo-issues)
 - [Bibliografía:](#bibliografía)
 
 [Azordev](https://github.com/Azordev/) gestiona casi todo su trabajo a través de GitHub. Por eso es importante que sean issues detalladas y bien creadas. A continuación se muestran algunas de las mejores prácticas para escribir issues de GitHub de forma apropiada.
@@ -85,6 +87,14 @@ Por ejemplo, en vez de escribir el título “El campo de búsqueda causa error 
   1. **Estimación de esfuerzo:** Menciona cuánto esfuerzo requiere la tarea para ser completada. Puedes seguir [this guide](https://docs.google.com/document/d/1ZaiuNGsNSQvZgB6Gr20imG9VFEB5YPNDfD5PaDoYPPg/edit?usp=sharing) para tener una idea de cómo funcionan las etiquetas de esfuerzo en Azordev.
   2. **Tipo de tareas:** Como se mencionó en [¿Qué es un issue?](#qué-es-un-issue), pueden existir distintos tipos de tareas. Tareas para diseñadores, por ejemplo, pueden llevar la label `design`, mientras que tareas para desarrolladores pueden dividirse por tecnologías, por ejemplo `javascript`, `css`, o pueden dividirse por tipo de tarea, por ejemplo: `api`, `logic`, `style`.
   3. **Prioridad:** Este label estipula qué tan pronto se requiere que se solucione algún issue, pueden ser tres o más: `low`, `mid`, `high`
+
+## Quiero trabajar con Azordev creando issues
+
+Si quieres saber como trabajar con Azordev creando issues, puedes revisar esta sección para saber cómo: [Trabaja con nosotros](WorkWithUs.es.md).
+
+## Quiero trabajar con Azordev resolviendo issues
+
+Si eres un desarrollador y quieres saber como trabajar con Azordev resolviendo, puedes revisar esta sección para saber cómo: [Trabaja con nosotros](../Resolving%20Issues/README.es.md).
 
 # Bibliografía:
 
